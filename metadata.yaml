@@ -1,5 +1,8 @@
 _repo: Pour-l-Amour-du-Laurier_65219
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65219-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert de Voisins, Auguste
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46652
     wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65219#Pour-l-Amour-du-Laurier
 gutenberg_issued: '2021-05-01'
 gutenberg_type: Text
 identifiers:
