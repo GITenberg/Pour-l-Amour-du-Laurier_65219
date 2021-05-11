@@ -1,0 +1,28 @@
+_repo: Pour-l-Amour-du-Laurier_65219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - Voisins, Gilbert de
+    - De Voisins, Gilbert
+    - Gilbert de Voisins, Auguste, comte
+    - Voisins, Auguste Gilbert de
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2021-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65219'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pour l'Amour du Laurier
+url: http://www.gutenberg.org/ebooks/65219
